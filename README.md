@@ -83,5 +83,5 @@ HMC is computationally expensive but converges faster due to gradient informatio
 
 Feature Selection significantly improves convergence.
 
-Both methods achieve an accuracy score of ≈ 65-70%.
+Both methods achieve an accuracy score of ≈ 80-82%.
 
